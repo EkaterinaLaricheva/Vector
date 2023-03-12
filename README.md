@@ -11,7 +11,7 @@ Prerequisites without features
 Role Variables
 --------------
 
-Vars:
+Default vars:
 vector_version: "0.21.0"
 
 Dependencies
